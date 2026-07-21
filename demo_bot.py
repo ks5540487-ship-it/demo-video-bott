@@ -8,12 +8,8 @@ from telegram.ext import (
     ContextTypes,
 )
 
-# ============================================================
-# YAHAN APNI DETAILS BHARO — SIRF 2 JAGAH
-# ============================================================
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 SOURCE_CHANNEL_ID = int(os.environ.get("SOURCE_CHANNEL_ID"))
-# ============================================================
 
 logging.basicConfig(level=logging.INFO)
 
@@ -38,10 +34,9 @@ async def send_videos(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
 
     success = 0
-    failed = 0
 
-    # Message IDs 1 se 500 tak try karega — jo available hoga forward karega
-    for msg_id in range(1, 500):
+    # Sirf 50 tak check karega — fast hoga
+    for msg_id in range(1, 50):
         try:
             await context.bot.forward_message(
                 chat_id=user_id,
@@ -50,13 +45,12 @@ async def send_videos(update: Update, context: ContextTypes.DEFAULT_TYPE):
             )
             success += 1
         except Exception:
-            failed += 1
             continue
 
     if success > 0:
         await context.bot.send_message(
             chat_id=user_id,
-            text=f"✅ *Done!*\n\n🎬 Total *{success}* videos sent to you!\nEnjoy watching! 🍿",
+            text=f"✅ *Done!*\n\n🎬 Total *{success}* videos sent!\nEnjoy watching! 🍿",
             parse_mode="Markdown"
         )
     else:
