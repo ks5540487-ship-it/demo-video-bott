@@ -82,7 +82,8 @@ async def send_category_videos(update: Update, context: ContextTypes.DEFAULT_TYP
         reply_markup = InlineKeyboardMarkup(keyboard)
         await context.bot.send_message(
             chat_id=user_id,
-            text=f"✅ *Done!*\n\n🎬 *{success}* demo videos sent!\n\n👇 Want to see another category?",
+            text=f"✅ *Done!*\n\n🎬 *{success}* demo videos sent!\n\n👇Payment QR code & Massage me payment screenshot 
+http://t.me/Kraja8 Want to see another category?",
             parse_mode="Markdown",
             reply_markup=reply_markup,
         )
