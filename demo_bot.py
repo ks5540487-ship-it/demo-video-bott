@@ -43,7 +43,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     reply_markup = InlineKeyboardMarkup(keyboard)
     await update.message.reply_text(
         "👋 *Welcome to get all demo videos instantly Bot!*\n\n"
-        "🎓 Select a category to watch demo videos:",
+        "🎓 Select a category to watch demo videos and get full long BUY CP massage me http://t.me/Kraja8 :",
         parse_mode="Markdown",
         reply_markup=reply_markup,
     )
