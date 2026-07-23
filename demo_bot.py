@@ -32,15 +32,6 @@ CHANNEL_IDS = {
     "Desi Moti Gand Walking Demo": -1004363997989,
 }
 
-PAYMENT_MESSAGE = """
-💳 *Want Full Access?*
- 
-📲 Make payment and send screenshot to:
-👉 @Kraja8
- 
-✅ You will get full cp access within 2-4 min!
-"""
-
 logging.basicConfig(level=logging.INFO)
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
