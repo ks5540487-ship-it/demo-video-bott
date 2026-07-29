@@ -15,6 +15,7 @@ CHANNEL_IDS = {
     "Indian r##p MMS Leaked": -1004360171518,
     "Chi$#dd mms leaked video DEMO": -1004339995876,
     "Desi Cucks Bundle DEMO": -1004346101582,
+    "Punjabi leak Bundle DEMO": -1003934594969,
     "Desi viral Bhabhi DEMO": -1004317800836,
     "Jaslin Kaur Demo": -1003746920545,
     "Mom Son DEMO": -1003907927607,
