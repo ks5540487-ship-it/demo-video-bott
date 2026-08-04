@@ -28,6 +28,7 @@ CHANNEL_IDS = {
     "Aditiy Mistry Demo": -1003643700138,
     "Full Webseries Demo": -1004462474135,
     "Desi Moti Gand Walking Demo": -1004363997989,
+    "All complete Combo Package": -1004347644527,
 
 }
 
