@@ -28,6 +28,11 @@ CHANNEL_IDS = {
     "Aditiy Mistry Demo": -1003643700138,
     "Full Webseries Demo": -1004462474135,
     "Desi Moti Gand Walking Demo": -1004363997989,
+    "Teen CP Demo": -1003966340422,
+    "Mom and Daughter CP Demo": -1004350514494,
+    "Foreign CP Demo": -1004403613395,
+    "Tamil CP Demo": -1004262611728,
+    "All in one CP Demo": -1003931380677,
     "All complete Combo Package": -1004347644527,
 
 }
