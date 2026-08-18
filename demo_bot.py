@@ -32,6 +32,7 @@ CHANNEL_IDS = {
     "Mom and Daughter CP Demo": -1004350514494,
     "Foreign CP Demo": -1004403613395,
     "Tamil CP Demo": -1004262611728,
+    "𝗙𝗼𝗿𝗰𝗲𝗱 𝘀𝗲𝘅  CP Demo": -1004262611728,
     "All in one CP Demo": -1003931380677,
     "All complete Combo Package": -1004347644527,
 
