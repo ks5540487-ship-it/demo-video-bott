@@ -36,7 +36,6 @@ CHANNEL_IDS = {
     "𝗜𝗻𝗱𝗶𝗮𝗻 𝗽𝗲𝗱𝗼𝗺𝗼𝗺 CP Demo": -1004262611728,
     "All in one CP Demo": -1003931380677,
     "All complete Combo Package": -1004347644527,
-
 }
 
 logging.basicConfig(level=logging.INFO)
