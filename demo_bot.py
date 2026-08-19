@@ -8,16 +8,17 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN")
 # 5 Groups mein 50 categories
 GROUPS = {
     "Group A - Main CP DEMO": [
-        "Main CP DEMO",
-        "MBA in Marketing",
-        "MBA in HR",
-        "MBA in Operations",
-        "MBA in IT",
-        "MBA in Business Analytics",
-        "MBA in International Business",
-        "MBA in Healthcare Management",
-        "MBA in Supply Chain",
-        "MBA in Retail Management",
+   "Main CP DEMO",
+    "Indian r##p MMS Leaked",
+    "Chi$#dd mms leaked video DEMO",
+    "Desi Cucks Bundle DEMO",
+    "Punjabi leak Bundle DEMO",
+    "Desi viral Bhabhi DEMO",
+    "Jaslin Kaur Demo",
+    "Mom Son DEMO",
+    "Bro Sis Demo",
+    "Tango Live Video Call Demo",
+    "Best Edits Demo",
     ],
     "Group B - Digital & Sales": [
         "MBA in Digital Marketing",
