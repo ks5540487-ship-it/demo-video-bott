@@ -133,7 +133,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         keyboard.append([InlineKeyboardButton(group, callback_data="g" + str(i))])
     reply_markup = InlineKeyboardMarkup(keyboard)
     await update.message.reply_text(
-        "Welcome to MBA Demo Bot!\n\nSelect a Group to see categories:",
+        "Welcome to get all demo videos instantly Bot!\n\nSelect a Group to see categories:",
         reply_markup=reply_markup,
     )
 
